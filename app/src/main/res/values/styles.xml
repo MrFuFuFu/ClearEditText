@@ -1,0 +1,31 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme.Base" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+        <item name="windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <!-- Material Design setup-->
+        <item name="colorPrimary">@color/theme_color_primary</item>
+        <item name="colorPrimaryDark">@color/theme_color_primary_dark</item>
+        <item name="colorAccent">@color/theme_color_accent</item>
+        <item name="android:textColorPrimary">@color/theme_color_textPrimary</item>
+        <item name="android:textColorHint">@color/theme_color_textHint</item>
+
+    </style>
+
+    <style name="AppTheme" parent="AppTheme.Base">
+        <!--<item name="android:editTextStyle">@style/EditText</item>-->
+
+    </style>
+
+
+    <style name="AccentButton" parent="Widget.AppCompat.Button">
+        <item name="colorButtonNormal">?colorAccent</item>
+    </style>
+
+    <style name="EditText" parent="Widget.AppCompat.EditText">
+    </style>
+
+
+</resources>

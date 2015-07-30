@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- theme color -->
+    <color name="white">#FFFFFFFF</color>
+    <color name="theme_color_primary_dark">#FF0288D1</color>
+    <color name="theme_color_primary">#FF03A9F4</color>
+    <color name="theme_color_accent">#FFFF4081</color>
+    <color name="theme_color_control_normal">#FFF8BBD0</color>
+    <color name="theme_color_control_highlight">#FF7C4DFF</color>
+    <color name="theme_color_control_activated">#FFC2185B</color>
+
+    <color name="theme_color_textPrimary">#212121</color>
+    <color name="theme_color_textHint">#7F7F7F</color>
+</resources>
