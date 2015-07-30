@@ -19,7 +19,7 @@ ClearEditText
 
 ## Preview
 
-![preview1](https://github.com/MrFuFuFu/ImageViewEx/blob/master/Image/screen.png)
+![clear_edittext](https://raw.githubusercontent.com/MrFuFuFu/ClearEditText/master/images/clear_edittext.png)
 
 ## More about me
 
