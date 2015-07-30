@@ -1,6 +1,7 @@
 ClearEditText
 =====================
 
+该博文地址:[让你的 EditText 全部清除](http://mrfufufu.github.io/android/2015/07/30/allclear_edittext/)
 
 ## 描述
 
