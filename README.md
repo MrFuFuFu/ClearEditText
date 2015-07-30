@@ -5,7 +5,7 @@ ClearEditText
 
 ## 描述
 
-* 清除你的 EditText，它只在你需要的时候才显示清除的图片，使用体验棒棒哒
+* 清除你的 EditText 的内容，它只在你需要的时候才显示清除的图片，使用体验棒棒哒
 * 不对你当前的监听产生干扰，对 OnFocusChangeListener 和 OnTouchListener 直接使用 ClearEditText的即可
 
 使用方式：
@@ -14,7 +14,7 @@ ClearEditText
 <mrfu.clearedittext.view.ClearEditText
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:hint=“Email”/>
+    android:hint="Email"/>
 ```
 
 
