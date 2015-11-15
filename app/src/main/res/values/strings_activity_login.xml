@@ -1,0 +1,12 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+
+    <string name="error_invalid_email">Please enter a valid email address</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_too_few_characters" formatted="false">Please enter at least <xliff:g example="4" id="number_characters">%1$d</xliff:g> characters</string>
+
+</resources>
